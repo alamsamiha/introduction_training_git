@@ -1,0 +1,6 @@
+git init
+git add.(file name)
+git add --all <add all file>
+git commit -m "commit message"
+git remote add origin (repository url)
+git push origin (branch name)
